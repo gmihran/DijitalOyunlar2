@@ -1,0 +1,22 @@
+public static int skor; //skor global deðiþken
+
+Eðer skor deðerinin içinde 2 deðeri varsa
+skor deðerini sýfýr yapacak bir metod
+skor = 0 (oyunun tekrar baþlamasý durumunda gerçekleþecek)
+Kullanýcýya tekrar oynamak ister misiniz diye sorulduðunda
+evet seçeneðini seçerse bu metod baþlayacak
+
+Eðer skor deðeri sýfýr deðerine eþitse kullanýcýya bir 
+matematik iþlem sorusu random bir þekilde soruyoruz
+doðru bilirse skor 1 oluyor
+1 ile 10 arasýnda random 2 sayý üret 
+random 1 iþlem üret ve sonucunu girmesini saðla
+
+Eðer skor deðeri 1'e eþitse kullanýcýya 1 adet
+1 ile 10 arasýnda random sayý tutalým
+kullacýnýn 3 tahmin yapma þansý var
+bilirse skor 2 olsun
+Kullanýcý bilemezse; kullanýcý sayýyý doðru tahmin edene kadar 
+tekrar edecek. Her adýmda farklý sayý üretilecek
+
+
