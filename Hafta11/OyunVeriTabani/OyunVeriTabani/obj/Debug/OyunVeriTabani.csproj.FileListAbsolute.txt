@@ -1,0 +1,10 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\OyunVeriTabani\OyunVeriTabani\obj\Debug\OyunVeriTabani.Form1.resources
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\OyunVeriTabani\OyunVeriTabani\obj\Debug\OyunVeriTabani.Properties.Resources.resources
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\OyunVeriTabani\OyunVeriTabani\obj\Debug\OyunVeriTabani.csproj.GenerateResource.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\OyunVeriTabani\OyunVeriTabani\obj\Debug\OyunVeriTabani.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\OyunVeriTabani\OyunVeriTabani\bin\Debug\OyunVeriTabani.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\OyunVeriTabani\OyunVeriTabani\bin\Debug\OyunVeriTabani.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\OyunVeriTabani\OyunVeriTabani\bin\Debug\OyunVeriTabani.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\OyunVeriTabani\OyunVeriTabani\obj\Debug\OyunVeriTabani.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\OyunVeriTabani\OyunVeriTabani\obj\Debug\OyunVeriTabani.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\OyunVeriTabani\OyunVeriTabani\obj\Debug\OyunVeriTabani.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\RandomSayi\RandomSayi\bin\Debug\RandomSayi.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\RandomSayi\RandomSayi\bin\Debug\RandomSayi.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\RandomSayi\RandomSayi\bin\Debug\RandomSayi.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\RandomSayi\RandomSayi\obj\Debug\RandomSayi.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\RandomSayi\RandomSayi\obj\Debug\RandomSayi.Form1.resources
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\RandomSayi\RandomSayi\obj\Debug\RandomSayi.Properties.Resources.resources
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\RandomSayi\RandomSayi\obj\Debug\RandomSayi.csproj.GenerateResource.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\RandomSayi\RandomSayi\obj\Debug\RandomSayi.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\RandomSayi\RandomSayi\obj\Debug\RandomSayi.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\RandomSayi\RandomSayi\obj\Debug\RandomSayi.pdb
